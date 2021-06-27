@@ -1,0 +1,13 @@
+.App {
+  flex: 1;
+  background-color: #f0f0f7;
+}
+.App > main {
+  display: flex;
+  flex-direction: column;
+  background-color: #8257E5;
+  background-size: 200px;
+}
+.App > main > header {
+  padding: 15px;
+}
